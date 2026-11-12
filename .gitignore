@@ -1,0 +1,8 @@
+.DS_Store
+build/
+derivedData/
+DerivedData/
+dist/*.app
+dist/Payload/
+*.xcuserstate
+xcuserdata/
